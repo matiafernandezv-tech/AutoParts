@@ -1,0 +1,22 @@
+{
+  "name": "autoparts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "python manage.py test",
+    "test:coverage": "coverage run manage.py test && coverage report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiafernandezv-tech/AutoParts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/matiafernandezv-tech/AutoParts/issues"
+  },
+  "homepage": "https://github.com/matiafernandezv-tech/AutoParts#readme"
+}
